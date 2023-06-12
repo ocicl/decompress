@@ -1,0 +1,10 @@
+* decompress
+
+A defensive and fast decompression library in pure Common Lisp (Github doesn't display the Readme correctly)
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/se-mz/decompress.git   |
+| commit  | d4528b8  |
+| systems | decompress |
+|---------+-------------------------------------------|
+
