@@ -4,6 +4,6 @@ A defensive and fast decompression library in pure Common Lisp (Github doesn't d
 
 |---------+---------------------------------------------|
 | source  | git:https://github.com/se-mz/decompress.git |
-| commit  | f04726a                                     |
+| commit  | 4e6165c                                     |
 | systems | semz.decompress                             |
 |---------+---------------------------------------------|
