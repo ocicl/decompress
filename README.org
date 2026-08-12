@@ -7,4 +7,4 @@ A defensive and fast decompression library in pure Common Lisp (Github doesn't d
 | commit  | 4e6165c                                     |
 | systems | semz.decompress                             |
 |---------+---------------------------------------------|
- 
+  
